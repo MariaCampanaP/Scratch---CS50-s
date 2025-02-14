@@ -1,8 +1,8 @@
-#Jogo de Aienígena - Scratch
+# Jogo de Alienígena - Scratch
 
 Este é um jogo interativo desenvolvido no **Scratch** como parte do curso **CS50'S Introduction to Computer Science** da *Harvard University*. O objetivo é controlar um personagem principal e coletar pontos ao tocar nos alienígenas (inimigos), que são gerados aleatoriamente na tela. A pontuação aumenta a cada colisão com um clone de alienígena, e os cloneas desaparece após o contato.
 
-##Funcionalidade
+## Funcionalidade
 - **Personagem Principal:** O jogador controla um personagem que se movimenta pela tela.
 - **Inimigos (Alienígenas):** Clones de alienígenas aparecem aleatoriamente na tela.
 - **Pontuação:** Cada vez que o personagem toca em um alienígena, a pontuação aumenta em 1.
